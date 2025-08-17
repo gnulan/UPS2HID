@@ -25,6 +25,9 @@ I programmed Motorola microprocessors in the late 90s in electronics school but 
 **Past work to build from:**
 
 https://github.com/abratchik/HIDPowerDevice
+
 https://github.com/SteveintheIoW/T-Display-S3-JK-BMS-BLE-to-Solis-CAN-Pylontech/tree/main
+
 https://github.com/networkupstools/nut
+
 https://github.com/ludoux/esp32-nut-server-usbhid
